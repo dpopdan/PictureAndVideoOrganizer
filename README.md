@@ -1,5 +1,5 @@
 # Picture And Video Organizer
-_A little console application I use to move files from my camera's memory card to local storage._
+<sub>A little console application I use to move files from my camera's memory card to local storage.</sub>
 
 At the command prompt I run (edit the parameters as necessary):
 ```
